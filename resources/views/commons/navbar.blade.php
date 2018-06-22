@@ -16,7 +16,7 @@
                         <li>
                             <a href="{{ route('items.create') }}">
                                 <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
-                                イテムを追加
+                                アイテムを追加
                             </a>
                         </li>
                         
