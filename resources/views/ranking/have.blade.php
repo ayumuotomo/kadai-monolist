@@ -4,3 +4,8 @@
     <h1>haveランキング</h1>
     @include('items.items', ['items' => $items])
 @endsection
+
+
+
+
+
